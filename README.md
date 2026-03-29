@@ -56,6 +56,8 @@ Improve emotion prediction accuracy using ML models
 Add appointment booking with mental health professionals
 Deploy the project online
 Add advanced user authentication
+
+
 👩‍💻 Developed By
 Ankitha Singh
 MCA Student
