@@ -36,7 +36,7 @@ NLP (Natural Language Processing)
 ⚙️ How to Run the Project
 Step 1: Clone the Repository
 Bash
-git clone 
+git clone https://github.com/SAnkithasingh12/PsySense-AI-Emotion-Adaptive-Virtual-Mental-Health-Assistant.
 Step 2: Install Requirements
 Bash
 pip install -r requirements.txt
